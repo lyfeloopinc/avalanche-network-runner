@@ -5,7 +5,7 @@ go 1.22.6
 require (
 	github.com/ava-labs/avalanchego v1.11.11
 	github.com/ava-labs/coreth v0.13.8-fixed-genesis-upgrade.0.20240815193440-a96bc921e732
-	github.com/ethereum/go-ethereum v1.13.8
+	github.com/ethereum/go-ethereum v1.13.15
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.16.0
 	github.com/onsi/ginkgo/v2 v2.13.1
 	github.com/onsi/gomega v1.29.0
